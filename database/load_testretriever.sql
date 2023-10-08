@@ -1,0 +1,1 @@
+COPY Files FROM stdin USING DELIMITERS ':';
